@@ -9,3 +9,86 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#red{
+  border: 20px solid #ff0000; /* this is short hand for setting
+                          the border's width, its type, and color */
+  display: inline-block; /* a way of positioning elements */
+  min-width: 20em; /* the two min styles make the shape */
+  min-height: 25em; /* of the divs oblong*/
+  border-radius: 50%; /* this makes the normally square div round */
+  border-left-color: transparent; /* these remove the color from the left side */
+  border-right-color: transparent; /* the right side */
+  border-bottom-color: transparent; /* and the bottom of the circle*/
+}
+#orange{
+  border: 20px solid #ffa500; /* this is short hand for setting
+                        the border's width, its type, and color */
+display: inline-block; /* a way of positioning elements */
+min-width: 20em; /* the two min styles make the shape */
+min-height: 25em; /* of the divs oblong*/
+border-radius: 50%; /* this makes the normally square div round */
+border-left-color: transparent; /* these remove the color from the left side */
+border-right-color: transparent; /* the right side */
+border-bottom-color: transparent; /* and the bottom of the circle*/
+
+}
+#yellow{
+  border: 20px solid #ffff00; /* this is short hand for setting
+                        the border's width, its type, and color */
+display: inline-block; /* a way of positioning elements */
+min-width: 20em; /* the two min styles make the shape */
+min-height: 25em; /* of the divs oblong*/
+border-radius: 50%; /* this makes the normally square div round */
+border-left-color: transparent; /* these remove the color from the left side */
+border-right-color: transparent; /* the right side */
+border-bottom-color: transparent; /* and the bottom of the circle*/
+
+}
+#green{
+  border: 20px solid #008000; /* this is short hand for setting
+                        the border's width, its type, and color */
+display: inline-block; /* a way of positioning elements */
+min-width: 20em; /* the two min styles make the shape */
+min-height: 25em; /* of the divs oblong*/
+border-radius: 50%; /* this makes the normally square div round */
+border-left-color: transparent; /* these remove the color from the left side */
+border-right-color: transparent; /* the right side */
+border-bottom-color: transparent; /* and the bottom of the circle*/
+
+}
+#blue{
+  border: 20px solid #0000ff; /* this is short hand for setting
+                        the border's width, its type, and color */
+display: inline-block; /* a way of positioning elements */
+min-width: 20em; /* the two min styles make the shape */
+min-height: 25em; /* of the divs oblong*/
+border-radius: 50%; /* this makes the normally square div round */
+border-left-color: transparent; /* these remove the color from the left side */
+border-right-color: transparent; /* the right side */
+border-bottom-color: transparent; /* and the bottom of the circle*/
+
+}
+#indigo{
+  border: 20px solid #4b0082; /* this is short hand for setting
+                        the border's width, its type, and color */
+display: inline-block; /* a way of positioning elements */
+min-width: 20em; /* the two min styles make the shape */
+min-height: 25em; /* of the divs oblong*/
+border-radius: 50%; /* this makes the normally square div round */
+border-left-color: transparent; /* these remove the color from the left side */
+border-right-color: transparent; /* the right side */
+border-bottom-color: transparent; /* and the bottom of the circle*/
+
+}
+#violet{
+  border: 20px solid #ee82ee; /* this is short hand for setting
+                        the border's width, its type, and color */
+display: inline-block; /* a way of positioning elements */
+min-width: 20em; /* the two min styles make the shape */
+min-height: 25em; /* of the divs oblong*/
+border-radius: 50%; /* this makes the normally square div round */
+border-left-color: transparent; /* these remove the color from the left side */
+border-right-color: transparent; /* the right side */
+border-bottom-color: transparent; /* and the bottom of the circle*/
+
+}
